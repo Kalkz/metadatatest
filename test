@@ -1,0 +1,42 @@
+{
+  "name": "HashLips NFT #1",
+  "description": "This is a collection about...",
+  "image": "1.gif",
+  "edition": 1,
+  "date": 1660660744876,
+  "attributes": [
+    {
+      "trait_type": "ORCSHOLE",
+      "value": "Valish"
+    },
+    {
+      "trait_type": "BOODDYYKH",
+      "value": "TumLum"
+    },
+    {
+      "trait_type": "HEEDKH",
+      "value": "Uglúk"
+    },
+    {
+      "trait_type": "EYZ",
+      "value": "SolikhOro"
+    },
+    {
+      "trait_type": "EARRZ",
+      "value": "Findikk"
+    },
+    {
+      "trait_type": "MOOTH",
+      "value": "Vunkosh"
+    },
+    {
+      "trait_type": "Nookh",
+      "value": "PukhTir"
+    },
+    {
+      "trait_type": "ACCESSOREEZ",
+      "value": "Erzzk"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
