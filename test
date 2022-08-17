@@ -40,3 +40,872 @@
   ],
   "compiler": "HashLips Art Engine"
 }
+
+----------------------------- (main _metadata.jason file if needed >>>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "name": "HashLips NFT #1",
+    "description": "This is a collection about...",
+    "image": "REPLACE/1.png",
+    "edition": 1,
+    "date": 1660723821389,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #2",
+    "description": "This is a collection about...",
+    "image": "REPLACE/2.png",
+    "edition": 2,
+    "date": 1660723821476,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #3",
+    "description": "This is a collection about...",
+    "image": "REPLACE/3.png",
+    "edition": 3,
+    "date": 1660723821553,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "VerdikhSarikh"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #4",
+    "description": "This is a collection about...",
+    "image": "REPLACE/4.png",
+    "edition": 4,
+    "date": 1660723821679,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "VerdikhSarikh"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Terkvish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #5",
+    "description": "This is a collection about...",
+    "image": "REPLACE/5.png",
+    "edition": 5,
+    "date": 1660723821764,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Geerzz"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #6",
+    "description": "This is a collection about...",
+    "image": "REPLACE/6.png",
+    "edition": 6,
+    "date": 1660723821777,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #7",
+    "description": "This is a collection about...",
+    "image": "REPLACE/7.png",
+    "edition": 7,
+    "date": 1660723821789,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "VerdikhSarikh"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Terkvish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #8",
+    "description": "This is a collection about...",
+    "image": "REPLACE/8.png",
+    "edition": 8,
+    "date": 1660723821803,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #9",
+    "description": "This is a collection about...",
+    "image": "REPLACE/9.png",
+    "edition": 9,
+    "date": 1660723821815,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #10",
+    "description": "This is a collection about...",
+    "image": "REPLACE/10.png",
+    "edition": 10,
+    "date": 1660723821826,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Terkvish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #11",
+    "description": "This is a collection about...",
+    "image": "REPLACE/11.png",
+    "edition": 11,
+    "date": 1660723821839,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Geerzz"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "VerdikhSarikh"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #12",
+    "description": "This is a collection about...",
+    "image": "REPLACE/12.png",
+    "edition": 12,
+    "date": 1660723821894,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Geerzz"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Yambul"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "VerdikhSarikh"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #13",
+    "description": "This is a collection about...",
+    "image": "REPLACE/13.png",
+    "edition": 13,
+    "date": 1660723821940,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Yambul"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Terkvish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #14",
+    "description": "This is a collection about...",
+    "image": "REPLACE/14.png",
+    "edition": 14,
+    "date": 1660723821952,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Geerzz"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #15",
+    "description": "This is a collection about...",
+    "image": "REPLACE/15.png",
+    "edition": 15,
+    "date": 1660723821965,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "VerdikhSarikh"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #16",
+    "description": "This is a collection about...",
+    "image": "REPLACE/16.png",
+    "edition": 16,
+    "date": 1660723821976,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Yambul"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #17",
+    "description": "This is a collection about...",
+    "image": "REPLACE/17.png",
+    "edition": 17,
+    "date": 1660723822009,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #18",
+    "description": "This is a collection about...",
+    "image": "REPLACE/18.png",
+    "edition": 18,
+    "date": 1660723822021,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Geerzz"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "BuluBlue"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #19",
+    "description": "This is a collection about...",
+    "image": "REPLACE/19.png",
+    "edition": 19,
+    "date": 1660723822034,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findik"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "RandevokhMax"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Vunkosh"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "HashLips NFT #20",
+    "description": "This is a collection about...",
+    "image": "REPLACE/20.png",
+    "edition": 20,
+    "date": 1660723822046,
+    "attributes": [
+      {
+        "trait_type": "ACCESSOREEZ",
+        "value": "Erzzk"
+      },
+      {
+        "trait_type": "BOODDYYKH",
+        "value": "TumLum"
+      },
+      {
+        "trait_type": "EARRZ",
+        "value": "Findikk"
+      },
+      {
+        "trait_type": "EYZ",
+        "value": "SolikhOro"
+      },
+      {
+        "trait_type": "HEEDKH",
+        "value": "Uglúk"
+      },
+      {
+        "trait_type": "MOOTH",
+        "value": "Simelyy"
+      },
+      {
+        "trait_type": "Nookh",
+        "value": "PukhTir"
+      },
+      {
+        "trait_type": "ORCSHOLE",
+        "value": "Valish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
+
